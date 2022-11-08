@@ -1,0 +1,35 @@
+{
+  "name": "gmaps-address-input-in-react",
+  "version": "1.0.0",
+  "description": "React component using Tom Chen's react-google-maps",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "@material-ui/core": "4.4.2",
+    "@material-ui/icons": "4.4.1",
+    "@material-ui/lab": "4.0.0-alpha.26",
+    "lodash": "4.17.15",
+    "react": "16.8.6",
+    "react-dom": "16.8.6",
+    "react-geocode": "0.1.2",
+    "react-google-autocomplete": "1.1.2",
+    "react-google-maps": "9.4.5",
+    "react-intl": "3.2.1",
+    "react-scripts": "3.0.1"
+  },
+  "devDependencies": {
+    "typescript": "3.3.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
